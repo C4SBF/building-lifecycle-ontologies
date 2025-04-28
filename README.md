@@ -4,7 +4,7 @@ The goal of this working group is to survey, collect, develop and support data o
 
 ## Governance
 
-**Chairperson**: Paristoo Delgoshaei
+**Chairperson**: Paristoo Delgoshaei  
 **Governing Board/Committee**: Paristoo Delgoshaei, Rick Justis, Tristan de Frondeville, Kennady Gales, Tracy Markie, Anto Budiardjo
 
 ## Contributing
