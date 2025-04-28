@@ -1,12 +1,12 @@
-# New Project Template
+# Building Lifecycle Ontologies Working Group
 
-This repository contains a template that can be used to seed a repository for a new C4SB Foundation project.
+The goal of this working group is to survey, collect, develop and support data ontologies for the lifecycle of buildings, to facilitate quicker and better software development for the real estate and building industry.
 
-The template uses the [Community Specification License](https://github.com/CommunitySpecification/Community_Specification).
+## Governance
 
-## How to use this template
+**Chairperson**: Paristoo Delgoshaei
+**Governing Board/Committee**: Paristoo Delgoshaei, Rick Justis, Tristan de Frondeville, Kennady Gales, Tracy Markie, Anto Budiardjo
 
-1. Clone it from GitHub.
-2. Create a new local repository and copy the files into it.
-3. Modify README.md and other files to represent your project, not this template project.
-4. Develop your new project.
+## Contributing
+
+Please refer to [Contributing.md](docs/Contributing.md) and [Code_of_Conduct.md](docs/Code_of_Conduct.md) for full guidelines.
