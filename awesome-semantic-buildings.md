@@ -6,10 +6,10 @@
 - [Open223](https://github.com/open223): ontology definitions and supporting tools for the ASHRAE 223P ontology, capturing detailed topology and composition information
 
 ## Tools
-
 - [OntoEnv](https://github.com/gtfierro/ontoenv-rs): tool for managing dependencies between ontology graphs, including automatic detection and downloading of ontology graph files
 - [BuildingMOTIF](https://github.com/NREL/BuildingMOTIF): SDK for creating and validating RDF models of buildings, focusing on use-case driven definition of models and integrating them with existing BMS
 - [BIM2RDF](https://github.com/PNNL/BIM2RDF): convert building models in Speckle to ASHRAE S223 semantic models
+- [web-ifc](https://github.com/ThatOpen/engine_web-ifc): Reading and writing IFC files with Javascript
 
 ### SHACL
 - [TopQuadrant SHACL](https://github.com/TopQuadrant/shacl): performant implementation of [SHACL](https://www.w3.org/TR/shacl/) and [SHACL-AF](https://www.w3.org/TR/shacl-af/)
